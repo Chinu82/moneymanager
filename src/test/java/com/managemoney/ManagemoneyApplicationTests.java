@@ -1,4 +1,4 @@
-package com.managemoney.managemoney;
+package com.managemoney;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
